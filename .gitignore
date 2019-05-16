@@ -1,0 +1,5 @@
+.idea
+node_modules
+/server/public/css
+/server/public/js
+/server/views
